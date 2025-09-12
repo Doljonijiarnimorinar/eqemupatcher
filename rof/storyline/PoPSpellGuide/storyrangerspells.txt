@@ -1,7 +1,7 @@
 Ranger Spell List<br><br>
 
 <c "#345eeb">----Level 61 Spells----</c><c "#55eb34">Ethereal Parchment</c><br><br>
-No spells in this expansion<br>
+Entangle<br>
 <br>
 
 <c "#345eeb">----Level 62 Spells----</c><c "#55eb34">Ethereal Parchment</c><br><br>

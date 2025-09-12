@@ -22,7 +22,7 @@ Tuyen's Chant of Ice<br>
 Tuyen's Chant of Venom<br>
 <br>
 
-<c "#345eeb">----Level 64 Spells----</c<c "#55eb34">Spectral Parchment</c>><br><br>
+<c "#345eeb">----Level 64 Spells----</c><c "#55eb34">Spectral Parchment</c><br><br>
 Call of Banshee<br>
 Chorus of Marr<br>
 Dreams of Terris<br>
