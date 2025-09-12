@@ -17,7 +17,7 @@ Mystical Essence of Smoke<br>
 Mystical Essence of Mist<br>
 Mystical Essence of Dust<br></c>
 Combine the four Essences in the Pouch to obtain the <c "#ffd700">Wind Etched Key</c><br><br>
-The Mysical Essences drop from various Wing Bosses called the Avatar’s. You must first complete a ring event to spawn each Avatar. The Avatar’s are triggered from the corresponding ring.<br><br>
+The Mysical Essences drop from various Ring Bosses called the Avatar’s. You must first complete a ring event to spawn each Avatar. The Avatar’s are triggered from the corresponding ring, and then spawn inside one of the four church-like structures (not on their respective island).<br><br>
 
 
 <c "#35db24"> Stormrider Ring</c><br><br>
@@ -41,11 +41,11 @@ At the same time, <c "#ff0000">a vorladien archwalker</c> will spawn. Killing th
 When the last archwalker dies, <c "#ff0000">Sigismond Windwalker</c> will spawn, kill him to spawn <c "#ff0000">Avatar of Dust</c> in his temple. Locate him in his temple and Kill him and collect <c "#ffd700">Essence of Dust</c>.<br><br>
 <c "#35db24"> Part Two - Xegony</c><br><br>
 <c "#ff0000">Xegony, The Queen of Air</c> is again a pretty straight forward fight.<br>
-Engage her, and every 15%, she will spawn several adds. When you kill her.
+Engage her. She will spawn waves of adds at 98, 82, 66, 50, 34, and 18% health.  When you kill her.
 <br><c "#dada99">You receive a character flag!</c><br>
-You receive <c "#ffd700">Amorphous Cloud of Air</c>(needed for <c "#35db24">Plane of Time</c> key.
+You receive <c "#ffd700">Amorphous Cloud of Air</c> (needed for <c "#35db24">Plane of Time</c> key.
 <br><br>
-A Essence of Wind will spawn, you don't need to Hail it.
+A Essence of Wind will spawn, you don't need to Hail it unless you were not in the zone when Xegony died.
 
 <br><br>
 >>>NEXT STEP<<<<br>
